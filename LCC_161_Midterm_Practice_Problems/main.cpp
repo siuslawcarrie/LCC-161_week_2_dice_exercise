@@ -101,8 +101,8 @@ int main()
 {
     const int MAX = 99;
     const int MIN = -99;
-    int value;
-
+99    int value;
+value
     do
     {
         cout << "Enter an integer between -99 and 99, inclusive. " << endl;
